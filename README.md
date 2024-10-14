@@ -1,0 +1,2 @@
+# denemee
+denemee cümlesi
